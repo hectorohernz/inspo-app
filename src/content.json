@@ -1,0 +1,11 @@
+{
+    "content":[
+       {"id":1, "title":"New Age","link":"assets/asap-people-head.jpg"},
+       {"id":2, "title":"Smiley","link":"assets/biking.png"},
+       {"id":3, "title":"Tyler The Creator","link":"assets/clothes.jpg"},
+       {"id":4, "title":"Asap Rocky","link":"assets/flowers.jpg"},
+       {"id":5, "title":"Sunset","link":"assets/SKY.jpg"},
+       {"id":6, "title":"Fashion Icon","link":"assets/tyler-head.jpg"},
+       {"id":6, "title":"Passion","link":"assets/tylerwall.jpg"}
+    ]
+}
